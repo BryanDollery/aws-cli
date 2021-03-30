@@ -1,4 +1,4 @@
-from alpine:3.11.6
+from alpine:latest
 
 arg TZ="Africa/Nairobi"
 
